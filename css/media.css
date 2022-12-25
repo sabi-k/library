@@ -1,0 +1,172 @@
+
+@media(min-width:1440px){
+    .header-content{
+        width: 92%;
+        margin-right: 0 !important;
+        padding-right: 0 !important;
+    }
+
+
+}
+@media(max-width:1024px){
+    
+}
+@media(max-width:768px){
+    .header-content{
+        width: 90%;
+    }
+    .head-h1 h1{
+        font-size: 50px;
+    }
+    .head-logo span{
+        font-size: 25px;
+    }
+    .regi-sect p{
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+
+}
+@media(max-width:575px){
+    .yellow-sect{
+       width: 150px;
+    }
+    .head-h1 h1{
+        font-size: 40px;
+    }
+    .black-text h3{
+        font-size: 20px;
+    }
+    .black-sect{
+        margin-bottom: 8px;
+    }
+    .cours-sect{
+        width: 100%;
+    }
+    .regi-sect h2{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .service-row{
+        margin-top: 30px;
+        margin-left: 55px;
+    }
+    .graduet-row h2{
+        font-size: 25px;
+        margin-left: 150px;
+    }
+    .componants{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .accordion-item p {
+        font-size: 14px;
+     }
+    .foot-h2 h2{
+        font-size: 25px;
+    
+    }
+    .foot-form{
+        width: 100%;
+    }
+    .newsletter_email
+    {
+        width: calc(70% - 100px) !important;
+    }
+    .owl-carousel .owl-item img {
+        margin-left: 230px;
+    }
+}
+@media(max-width:425px){
+    .yellow-sect{
+        display: none !important;
+    }
+    .header-content{
+        width: 80%;
+        margin: auto;
+        margin-top: 20px !important;
+    }
+    .head-logo{
+        width: 70%;
+    }
+    .head-logo span{
+        font-size: 16px !important;
+        margin-top: 15px;
+    }
+    .head-h1 h1{
+        font-size: 30px;
+    }
+    .cours-sect{
+        width: 100%;
+    }
+    .regi-sect h2{
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    .regi-sect{
+        margin-top: 50px;
+        width: 100%;
+    }
+    .form-sect{
+        width: 100%;
+    }
+    .regi-form h2{
+        font-size: 30px;
+    }
+    .register-sect{
+        width: 100% !important;
+    }
+    .serv-sct h4{
+        font-size: 18px;
+    }
+    .graduet-row h2{
+        margin-left: 80px;
+    }
+    .owl-carousel .owl-item img {
+        margin-left: 150px;
+    }
+    .componants{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+}
+@media(max-width:375px){
+    .yellow-sect{
+        display: none !important;
+    }
+    .regi-sect h2{
+        font-size: 25px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .regi-sect p{
+        margin-bottom: 40px !important;
+    }
+    .serv-sct{
+        width: 90%;
+        margin-left: 0 !important;
+        padding-left: 0%;
+    }
+    .serv-sct p{
+        font-size: 14px;
+        max-width: 90%;
+        margin-right: 15px;}
+
+}
+@media(max-width:320px){
+    .head-logo span{
+        font-size: 20px;
+    }
+    .yellow-sect{
+        display: none !important;
+    }
+    .head-h1 h1{
+        font-size: 40px;
+    }
+    .ending ul li{
+        margin-left: 15px;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+}
