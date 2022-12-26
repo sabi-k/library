@@ -164,9 +164,17 @@
     .head-h1 h1{
         font-size: 40px;
     }
-    .regi-sect.btn-regi{
-        padding: 10px;
-        font-size:12px;
+    .regi-sect .btn-regi{
+        padding: 8px 15px;
+    }
+    .graduet-row h2{
+        margin-left: 0px;
+    }
+    .graduet-row h2{
+        font-size: 22px;
+    }
+    .owl-carousel .owl-item img {
+        margin-left: 100px;
     }
     .ending ul li{
         margin-left: 15px;
