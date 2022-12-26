@@ -164,6 +164,10 @@
     .head-h1 h1{
         font-size: 40px;
     }
+    .regi-sect.btn-regi{
+        padding: 8px 15px;
+        font-size:12px;
+    }
     .ending ul li{
         margin-left: 15px;
         margin-top: 20px;
